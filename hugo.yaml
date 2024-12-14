@@ -1,10 +1,10 @@
-baseURL: 'https://Portzer.github.io'
+baseURL: 'https://portzer.github.io'
 title: LADDER
 theme: hugo-theme-ladder
 license: MIT
 licenselink: 'https://github.com/guangzhengli/hugo-theme-ladder/blob/master/LICENSE'
 description: 'A fast, clean Hugo theme'
-homepage: 'https://Portzer.github.io'
+homepage: 'https://portzer.github.io'
 defaultContentLanguage: 'zh'
 googleAnalytics: G-xxx
 paginate: 10
